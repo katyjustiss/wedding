@@ -1,0 +1,21 @@
+{
+  "name": "wedding",
+  "version": "1.0.0",
+  "homepage": "https://github.com/katyjustiss/wedding",
+  "authors": [
+    "Katy Justiss <katy.justiss@gmail.com>"
+  ],
+  "main": "index.html",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.5",
+    "lightbox2": "~2.8.2"
+  }
+}
