@@ -56,7 +56,7 @@ div .navbar-brand {
 #pic {
   max-width: 475px;
   max-height: 375px;
-  border-radius: 100%;
+  border-radius: 10%;
   margin: auto; }
 
 .about-div {
@@ -77,15 +77,21 @@ div .navbar-brand {
 
 /**************** REGISTRY **************/
 #registry {
-  background: whitesmoke; }
+  background: whitesmoke;
+  padding: 2% 2% 10%; }
 
 /**************** CONTACT **************/
-#contact h4 {
-  line-height: 150%; }
+#contact {
+  z-index: -1; }
+  #contact h4 {
+    line-height: 150%; }
 
 /**************** IMAGES **************/
 #images {
   background: whitesmoke; }
+
+#myCarousel {
+  padding: 10%; }
 
 .image-slider {
   max-width: 600px;

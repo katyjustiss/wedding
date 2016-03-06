@@ -15,7 +15,6 @@
     "tests"
   ],
   "dependencies": {
-    "bootstrap": "~3.3.5",
-    "lightbox2": "~2.8.2"
+    "bootstrap": "~3.3.5"
   }
 }
